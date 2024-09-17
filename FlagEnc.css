@@ -1,0 +1,21 @@
+html,body {
+  background-color:#444;
+  color:white;
+}
+img {
+  margin:1px 3px;
+  vertical-align:middle;
+}
+textarea {
+  height:100px;
+  width:800px;
+}
+
+.centered { text-align:center; }
+.newline { height:30px; }
+.space {
+  display:inline-block;
+  background-color:#222;
+  border-radius:40px;
+  padding:20px 0px;
+}

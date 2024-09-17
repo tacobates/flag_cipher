@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Flag Encryption</title>
+  <meta name="description" content="Encrypts secret messages as Flag SVGs">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="FlagEnc.css">
+  <script src="FlagEnc.js"></script>
+  <script type="text/javascript">
+    var flagenc = null;
+    function init() {
+	  flagenc = new FlagEnc();
+	}
+    function generateCipher() {
+	  let msg = document.getElementById('txt').value;
+	  let output = document.getElementById('output');
+	  flagenc.populateFlags(msg, output);
+	}
+  </script>
+</head>
+
+<body onload="init()">
+  <div id="content">
+    <div id="input" class="section">
+	  Message to Encrypt (A-Z, Spaces, and New Lines only):<br/>
+	  <textarea id="txt">Type your Secret Message here</textarea>
+<!--<textarea id="txt">CYNIC_TEST_ALL_FLAGS_INSTEAD_OF_ENCRYPTING</textarea>-->
+      <br/>
+	  <button onclick="generateCipher()">Generate Message</button>
+<!-- TODO: do a similar thing for State flags (but what to do about all the missing letters?) -->
+	</div>
+
+    <div id="output" class="section"></div>
+
+    <br/><br/><hr/><br/>
+    <div id="footer" class="centered">
+      Check out my <a href="https://www.youtube.com/@CynicPlacebo" target="_blank" title="Cynic Placebo on YouTube">YouTube Channel</a>
+    </div>
+  </div>
+</body>
+</html>
