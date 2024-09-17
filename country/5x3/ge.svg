@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="900"
+   height="540"
+   viewBox="0 0 30 18"
+   fill="#ff0000"
+   version="1.1"
+   id="svg4"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs4" />
+  <path
+     fill="#ffffff"
+     d="M 0,0 H 30 V 18 H 0 Z"
+     id="path1"
+     style="stroke-width:0.948684" />
+  <path
+     d="m 13,-1 h 4 V 19 H 13 Z M 0,7 h 30 v 4 H 0 Z"
+     id="path2" />
+  <g
+     id="c"
+     transform="translate(0,-0.58733333)">
+    <g
+       id="b">
+      <path
+         id="a"
+         d="m 5.797,1.954 a 5.4,5.4 0 0 0 1.406,0 10.4,10.4 0 0 0 0,4.092 5.4,5.4 0 0 0 -1.406,0 10.4,10.4 0 0 0 0,-4.092 z" />
+      <use
+         transform="rotate(90,6.5,4)"
+         xlink:href="#a"
+         id="use2" />
+    </g>
+    <use
+       x="17"
+       xlink:href="#b"
+       id="use3" />
+  </g>
+  <use
+     y="12"
+     xlink:href="#c"
+     id="use4"
+     transform="translate(0,-0.846)" />
+</svg>

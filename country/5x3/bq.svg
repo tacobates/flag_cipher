@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1000"
+   height="600"
+   viewBox="0 0 300 180"
+   fill="#101820"
+   version="1.1"
+   id="svg5"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs5" />
+  <path
+     d="M 0,0 H 300 V 180 H 0 Z"
+     fill="#ffffff"
+     id="path1"
+     style="display:inline;stroke-width:1.05409" />
+  <path
+     d="M 300,0 V 180 H 0 Z"
+     fill="#003087"
+     id="path2"
+     style="display:inline;stroke-width:1.05409" />
+  <path
+     d="M 0,75 V 0 h 125 z"
+     fill="#ffd700"
+     id="path3"
+     style="display:inline;stroke-width:1.05409" />
+  <g
+     transform="translate(83.25,77.4999)"
+     id="g5"
+     style="display:inline">
+    <path
+       d="M 0,-45 25.98,0 0,45 -25.98,0 Z M 45,0 0,25.98 -45,0 0,-25.98 Z"
+       id="path4" />
+    <circle
+       r="38.971001"
+       id="circle4"
+       cx="0"
+       cy="0" />
+    <circle
+       r="33.75"
+       fill="#ffffff"
+       id="circle5"
+       cx="0"
+       cy="0" />
+    <path
+       d="m 0,22.5 -19.486,-33.75 h 38.972 z m 0,-45 19.486,33.75 h -38.972 z"
+       fill="#d50032"
+       id="path5" />
+  </g>
+</svg>

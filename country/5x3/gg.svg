@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1000"
+   height="600"
+   viewBox="0 0 40 24"
+   version="1.1"
+   id="svg3"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3" />
+  <rect
+     style="fill:#ffffff;stroke-width:4.78153"
+     id="rect3"
+     width="40"
+     height="24"
+     x="0"
+     y="0" />
+  <rect
+     style="fill:#e8112d;fill-opacity:1;stroke-width:3.80928"
+     id="rect4"
+     width="40"
+     height="6"
+     x="0"
+     y="9" />
+  <rect
+     style="fill:#e8112d;fill-opacity:1;stroke-width:2.95066"
+     id="rect5"
+     width="24"
+     height="6"
+     x="0"
+     y="-23"
+     transform="rotate(90)" />
+  <path
+     d="m 11,14 1,-1 h 7 v 7 l -1,1 h 4 l -1,-1 v -7 h 7 l 1,1 v -4 l -1,1 H 21 V 4 l 1,-1 h -4 l 1,1 v 7 h -7 l -1,-1 z"
+     fill="#f9dd16"
+     id="path3"
+     style="display:inline" />
+</svg>
