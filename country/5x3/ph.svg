@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1000"
+   height="600"
+   viewBox="-28 -45 150 90"
+   fill="#fcd116"
+   version="1.1"
+   id="svg7"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs7" />
+  <path
+     fill="#0038a8"
+     d="M -28,-45 H 122 V 0 L -4.6666667,44 Z"
+     id="path1"
+     style="stroke-width:0.912871" />
+  <path
+     fill="#ce1126"
+     d="M -4.6666667,0 H 122 V 45 H -28 Z"
+     id="path2"
+     style="stroke-width:0.912871" />
+  <path
+     fill="#ffffff"
+     d="M 49.942,0 -28,45 v -90 z"
+     id="path3" />
+  <circle
+     r="9"
+     id="circle3"
+     cx="0"
+     cy="0" />
+  <g
+     id="c">
+    <g
+       id="b">
+      <path
+         id="a"
+         d="m 0,0 -3.164,-15.909 0.945,-0.946 z M 0,0 -1.169,-17.831 0,-19 l 1.169,1.169 z m 0,0 2.219,-16.855 0.945,0.946 z" />
+      <use
+         transform="scale(-1)"
+         xlink:href="#a"
+         id="use3" />
+    </g>
+    <use
+       transform="rotate(90)"
+       xlink:href="#b"
+       id="use4" />
+  </g>
+  <use
+     transform="rotate(45)"
+     xlink:href="#c"
+     id="use5" />
+  <path
+     id="d"
+     d="M 40.942,0 37.56,1.176 37.487,4.755 35.324,1.902 31.897,2.939 33.942,0 l -2.045,-2.939 3.427,1.037 2.163,-2.853 0.073,3.579 z" />
+  <use
+     transform="rotate(120,-2.019,0)"
+     xlink:href="#d"
+     id="use6" />
+  <use
+     transform="rotate(-120,-2.019,0)"
+     xlink:href="#d"
+     id="use7" />
+</svg>

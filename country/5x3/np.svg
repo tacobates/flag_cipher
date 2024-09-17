@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1475"
+   height="885"
+   viewBox="-17.582 -4.664 145.4094 87.246"
+   version="1.1"
+   id="svg10"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs10" />
+  <rect
+     style="fill:#ffffff;stroke-width:0.0370034"
+     id="rect10"
+     width="145.41"
+     height="87.246002"
+     x="-17.582148"
+     y="-4.664" />
+  <use
+     xlink:href="#a"
+     stroke="#003893"
+     stroke-width="5.165"
+     id="use1"
+     transform="matrix(1.0000009,0,0,0.99998987,3.6834755e-4,2.9662112e-4)" />
+  <path
+     id="a"
+     d="M -15,37.574 H 45 L -15,3.4332276e-8 V 80 H 45 L -15,20 Z"
+     fill="#dc143c" />
+  <g
+     fill="#ffffff"
+     id="g10">
+    <path
+       d="m -11.95,23.483 a 12.84,12.84 0 0 0 23.9,0 11.95,11.95 0 0 1 -23.9,0"
+       id="path1" />
+    <g
+       transform="matrix(5.56106,0,0,5.56106,0,29.045)"
+       id="g5">
+      <circle
+         r="1"
+         id="circle1"
+         cx="0"
+         cy="0" />
+      <g
+         id="d">
+        <g
+           id="c">
+          <path
+             id="b"
+             d="M 0.195,-0.98 0,-1.39 -0.195,-0.982"
+             transform="rotate(11.25)" />
+          <use
+             xlink:href="#b"
+             transform="rotate(22.5)"
+             id="use2" />
+          <use
+             xlink:href="#b"
+             transform="rotate(45)"
+             id="use3" />
+        </g>
+        <use
+           xlink:href="#c"
+           transform="rotate(67.5)"
+           id="use4" />
+      </g>
+      <use
+         xlink:href="#d"
+         transform="scale(-1,1)"
+         id="use5" />
+    </g>
+    <g
+       transform="matrix(8.1434,0,0,8.1434,0,58.787)"
+       id="g9">
+      <circle
+         r="1"
+         id="circle5"
+         cx="0"
+         cy="0" />
+      <g
+         id="g">
+        <g
+           id="f">
+          <path
+             id="e"
+             d="M 0.259,0.966 0,1.576 -0.259,0.966" />
+          <use
+             xlink:href="#e"
+             transform="scale(-1)"
+             id="use6" />
+        </g>
+        <use
+           xlink:href="#f"
+           transform="rotate(90)"
+           id="use7" />
+      </g>
+      <use
+         xlink:href="#g"
+         transform="rotate(30)"
+         id="use8" />
+      <use
+         xlink:href="#g"
+         transform="rotate(60)"
+         id="use9" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1000"
+   height="600"
+   viewBox="-140 -70 233.33333 140"
+   fill="#f8e92e"
+   version="1.1"
+   id="svg3"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3" />
+  <path
+     fill="#d82126"
+     d="M -140,-70 H 93.33333 V 70 H -140 Z"
+     id="path1"
+     style="stroke-width:0.912871" />
+  <path
+     d="M -140,14 V -14 L 93.33333,14 v -28 z m 105.000003,-84 h 23.333333 L -23.33333,-15 Z M -11.666664,70 H -34.999997 L -23.33333,15 Z M -140,-70 h 35 l 92.383336,77.72 z m 0,140 h 35 L -12.616664,-7.72 Z M 93.33333,-70 H 58.333337 L -34.049997,7.72 Z m 0,140 H 58.333337 L -34.049997,-7.72 Z"
+     id="path2"
+     style="stroke-width:0.912871" />
+  <circle
+     r="25"
+     fill="#d82126"
+     id="circle2"
+     cx="-23.33333"
+     cy="0"
+     style="display:inline" />
+  <circle
+     r="20"
+     id="circle3"
+     cx="-23.33333"
+     cy="0"
+     style="display:inline" />
+</svg>

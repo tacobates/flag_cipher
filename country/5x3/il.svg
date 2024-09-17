@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1330.0001"
+   height="798"
+   version="1.1"
+   id="svg3"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3" />
+  <path
+     d="M 0,0 H 1330.0001 V 798 H 0 Z"
+     fill="#ffffff"
+     id="path1"
+     style="stroke-width:1.09821" />
+  <path
+     d="M 0,74 H 1330.0001 V 199 H 0 Z M 0,599 H 1330.0001 V 724 H 0 Z"
+     fill="#0038b8"
+     id="path2"
+     style="stroke-width:1.09959" />
+  <path
+     d="M 538.816,471.853 H 791.184 L 665,253.295 Z M 665,544.705 791.184,326.147 H 538.816 Z"
+     fill="none"
+     stroke="#0038b8"
+     stroke-width="27.5"
+     id="path3" />
+</svg>

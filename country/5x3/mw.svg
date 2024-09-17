@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="600"
+   viewBox="-225 -114 500 300"
+   width="1000"
+   version="1.1"
+   id="svg7"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs7" />
+  <path
+     d="M -225,-114 H 275 V 186 H -225 Z"
+     id="path1"
+     style="stroke-width:1.05409" />
+  <circle
+     fill="#ce1126"
+     r="64.5"
+     id="circle1"
+     cx="25"
+     cy="0" />
+  <g
+     id="e"
+     transform="translate(25)">
+    <g
+       id="d">
+      <g
+         id="c">
+        <g
+           id="b">
+          <path
+             id="a"
+             d="M 0,0 C -2.167,0 -3,3.25 -3,6.5 -3,14.333 -2.04,18.429 0,30 2.04,18.429 3,14.333 3,6.5 3,3.25 2.167,0 0,0 Z"
+             fill="#ce1126"
+             transform="translate(0,-102)" />
+          <use
+             transform="rotate(5)"
+             xlink:href="#a"
+             id="use1" />
+        </g>
+        <use
+           transform="rotate(10)"
+           xlink:href="#b"
+           id="use2" />
+      </g>
+      <use
+         transform="rotate(20)"
+         xlink:href="#c"
+         id="use3" />
+    </g>
+    <use
+       transform="rotate(40)"
+       xlink:href="#d"
+       id="use4" />
+  </g>
+  <use
+     transform="rotate(-80,25,9.2572371e-8)"
+     xlink:href="#e"
+     id="use5" />
+  <path
+     d="M -225,-21.5 H 275 V 186 h -500 z"
+     id="path5"
+     style="stroke-width:1.05409" />
+  <path
+     d="M -225,-14 H 275 V 186 H -225 Z"
+     fill="#ce1126"
+     id="path6"
+     style="stroke-width:1.05409" />
+  <path
+     d="M -225,86 H 275 V 186 H -225 Z"
+     fill="#339e35"
+     id="path7"
+     style="stroke-width:1.05409" />
+</svg>

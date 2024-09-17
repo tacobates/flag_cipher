@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1330"
+   height="798"
+   viewBox="0 0 19.95 11.97"
+   version="1.1"
+   id="svg6"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6" />
+  <path
+     fill="#fecb00"
+     d="M 0,0 H 19.95 V 11.97 H 0 Z"
+     id="path1"
+     style="stroke-width:1.05146" />
+  <path
+     fill="#34b233"
+     d="m 0,3.975 h 19.95 v 7.98 H 0 Z"
+     id="path2"
+     style="stroke-width:1.05146" />
+  <path
+     fill="#ea2839"
+     d="m 0,7.965 h 19.95 v 3.99 H 0 Z"
+     id="path3"
+     style="stroke-width:1.05146" />
+  <g
+     transform="matrix(4.422,0,0,4.422,9.975,6.407)"
+     id="g6">
+    <path
+       id="a"
+       fill="#ffffff"
+       d="M -0.325,0 0,-1 0.325,0 Z" />
+    <use
+       xlink:href="#a"
+       transform="rotate(-144)"
+       id="use3" />
+    <use
+       xlink:href="#a"
+       transform="rotate(-72)"
+       id="use4" />
+    <use
+       xlink:href="#a"
+       transform="rotate(72)"
+       id="use5" />
+    <use
+       xlink:href="#a"
+       transform="rotate(144)"
+       id="use6" />
+  </g>
+</svg>
