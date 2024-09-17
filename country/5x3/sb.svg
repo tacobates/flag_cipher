@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="999.99994"
+   height="600"
+   viewBox="-35 -30 166.66666 100"
+   version="1.1"
+   id="svg12"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs12" />
+  <clipPath
+     id="a">
+    <path
+       d="M -35,-30 H 165 V 70 H -35 Z"
+       id="path1" />
+  </clipPath>
+  <path
+     fill="#215b33"
+     d="M -35,-30 H 131.66666 V 70 H -35 Z"
+     id="path2"
+     style="stroke-width:0.912871" />
+  <path
+     d="M -35,70 V -30 h 166.66666"
+     fill="#0051ba"
+     id="path3"
+     style="stroke-width:0.912871" />
+  <path
+     d="M 165,-30 -35,70"
+     stroke-width="9"
+     stroke="#fcd116"
+     clip-path="url(#a)"
+     id="path4"
+     transform="matrix(0.83333333,0,0,1,-5.8333333,0)" />
+  <g
+     id="d"
+     fill="#ffffff"
+     transform="scale(10)">
+    <g
+       id="c">
+      <path
+         id="b"
+         d="m 0,-1 -0.309,0.951 0.476,0.155 z" />
+      <use
+         xlink:href="#b"
+         transform="scale(-1,1)"
+         id="use4" />
+    </g>
+    <use
+       xlink:href="#c"
+       transform="rotate(72)"
+       id="use5" />
+    <use
+       xlink:href="#c"
+       transform="rotate(-72)"
+       id="use6" />
+    <use
+       xlink:href="#c"
+       transform="rotate(144)"
+       id="use7" />
+    <use
+       xlink:href="#c"
+       transform="rotate(-144)"
+       id="use8" />
+  </g>
+  <use
+     xlink:href="#d"
+     transform="translate(19.741,-16.92)"
+     id="use9" />
+  <use
+     xlink:href="#d"
+     transform="translate(19.741,16.92)"
+     id="use10" />
+  <use
+     xlink:href="#d"
+     transform="translate(-19.741,16.92)"
+     id="use11" />
+  <use
+     xlink:href="#d"
+     transform="translate(-19.741,-16.92)"
+     id="use12" />
+</svg>
